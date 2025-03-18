@@ -1,0 +1,23 @@
+{
+  "name": "GodCoin",
+  "symbol": "GOD",
+  "description": "The divine cryptocurrency of the Solana blockchain.",
+  "image": "https://raw.githubusercontent.com/ant-a11y/God-Coin/main/god-coin%20IMAGE.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/ant-a11y/God-Coin/main/god-coin%20IMAGE.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "creators": [
+    {
+      "address": "AJQCTPAJHF7uQyazt7E5gEmynRHDcpVH4mVwoMWtSNcA",
+      "share": 100
+    }
+  ],
+  "sellerFeeBasisPoints": 500,
+  "category": "utility"
+}
